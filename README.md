@@ -1,16 +1,5 @@
 # Customer Support Automation System 
 
-## 📖 Table of Contents
-1. [Overview](#overview)
-2. [Architecture](#architecture)
-3. [Quick Start](#quick-start)
-4. [API Reference](#api-reference)
-5. [Configuration](#configuration)
-6. [Agents & Tasks](#agents--tasks)
-7. [Deployment](#deployment)
-8. [Monitoring & Logging](#monitoring--logging)
-9. [Troubleshooting](#troubleshooting)
-10. [Examples](#examples)
 
 ## 🚀 Overview
 
@@ -520,12 +509,4 @@ class TechnicalSupportAgent:
         )
 ```
 
-## 📞 Support
-
-For issues and questions:
-
-1. **Documentation**: Check this documentation first
-2. **GitHub Issues**: Report bugs and feature requests
-3. **Community**: Join the CrewAI community
-4. **Email**: support@yourcompany.com
 
